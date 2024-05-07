@@ -49,17 +49,6 @@ Several models were developed and evaluated, with the Random Forest model outper
 
 The best-performing model (Random Forest) was serialized using Joblib and is prepared for integration into real-time applications for practical emotion recognition.
 
-## Team and Acknowledgment
-
-This project was a collaborative effort by the students from San Jose State University's Department of Applied Data Science, under the guidance of Mr. Vishnu Pendyala.
-
-## Team Members
-
-- **Sahithi Nara:** Lead on methodology, Model optimization
-- **Pranathi Sai Maddigunta:** EDA, data cleaning, Model refinement
-- **Revanth Kumar Bondada:** Data analysis, Modeling, documentation
-- **Catherine Raj:** EDA, Data cleaning, Model testing
-
 ## Lessons Learned
 
 The project emphasized the importance of data preparation, the impact of data imbalances on model performance, and the effectiveness of API-driven architecture for scalable solutions.
